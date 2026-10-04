@@ -98,3 +98,4 @@ elif page == "🗺️ Learning Roadmap":
 
 st.sidebar.markdown("---")
 st.sidebar.caption("CareerPilot-X • Build skills. Explore paths. Move forward.")
+
